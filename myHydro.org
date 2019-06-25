@@ -1,0 +1,27 @@
+#+TITLE: MICRO-HYDRO POWER NOTES
+#+OPTIONS: toc:nil
+#+AUTHOR: Surendra Tamang
+
+* TOPICS
+** MICRO HYDRO BASICS AND STATUS IN NEPAL
+NOTE UPTO *1OOKW* IS CONSIDER IN MICRO-HYDRO
+***   NECESSITY OF MICRO HYDRO POWER
+    Before reading about the necessity of \micro-hydro, Let define \micro-hydro first
+    - *\micro-hydro* : It is a renewable source of energy which refers to the conversion of energy 
+from flowing water to electricity which is produced in small scale, affordable, power upto *100KW*.
+
+Here are some point why we it is necessary
+ + Highly efficient.
+ + High level of *predictability*.
+ + Long Lasting 
+ + Less impact on Environment.
+ ----
+### CLASSIFICATION OF HYDROPOWER
+| NAME         | SIZE                  |
+|--------------+-----------------------|
+| \micro-HYDRO | UPTO 100KW            |
+| \mini-HYDRO  | ABOVE 100KW UPTO 1MW  |
+| SMALL-HYDRO  | ABOVE 1MW UPTO 10MW   |
+| MEDIUM-HYDRO | ABOVE 10MW UPTO 300MW |
+| LARGE-HYDRO  | ABOVE 300MW           |
+
